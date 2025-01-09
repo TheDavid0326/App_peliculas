@@ -1,5 +1,5 @@
-const API_KEY = "5788d635e59788275c06837c1893adc4";
-const token = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1Nzg4ZDYzNWU1OTc4ODI3NWMwNjgzN2MxODkzYWRjNCIsIm5iZiI6MTczNTgyNzUyMS4zMiwic3ViIjoiNjc3NmEwNDFmNmZhMDFhMmFhNjE0ZGExIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.8-6sOU42a3PogHeMFoYgM4SGcon0jWKxkkMPK4Blui8";
+const API_KEY = "";
+const token = "";
 const API_URL= 'https://api.themoviedb.org/3/search/movie'
 const IMG_URL = 'https://image.tmdb.org/t/p/w200'
 
