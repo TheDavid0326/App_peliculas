@@ -49,7 +49,7 @@ Este proyecto es una aplicación web que permite buscar películas a través de 
 **Nota:**
 
 * Este ejemplo requiere una API key de The Movie Database. Puedes obtener una gratis registrándote en su sitio web.
-* Reemplaza `'5788d635e59788275c06837c1893adc4'` con tu propia API key.
-* Reemplaza `'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1Nzg4ZDYzNWU1OTc4ODI3NWMwNjgzN2MxODkzYWRjNCIsIm5iZiI6MTczNTgyNzUyMS4zMiwic3ViIjoiNjc3NmEwNDFmNmZhMDFhMmFhNjE0ZGExIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.8-6sOU42a3PogHeMFoYgM4SGcon0jWKxkkMPK4Blui8'` con tu propio token de TMDB.
+* Reemplaza API_KEY con tu propia API key.
+* Reemplaza token con tu propio token de TMDB.
 
 Este README describe las funcionalidades del buscador de películas, las tecnologías utilizadas y cómo utilizarlo. También incluye información importante sobre las credenciales necesarias para acceder a la API de TMDB.
